@@ -7,16 +7,15 @@ Package.on_use(function(api) {
     'spark',
     'underscore',
     'handlebars',
-    'templating',
-    'coffeescript'],
-    ['client', 'server']
+    'templating'],
+    ['client']
     );
 
-    api.add_files(['jquery.easing-1.3.js',
-       'jquery.iosslider.js',
+    api.add_files(['lib/jquery.easing-1.3.js',
+       'lib/jquery.iosslider.js',
        'slider.css',
        'slider.html',
-       'sliderItem.litcoffee',
-       'sliderLaunch.litcoffee',
-       'slider.litcoffee'], 'client');
+       '/lib/sliderItem.js',
+       '/lib/sliderLaunch.js',
+       '/lib/slider.js'], 'client');
 });
