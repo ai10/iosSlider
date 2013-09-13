@@ -1,4 +1,4 @@
 iosSlider
 =========
 
-privately licensed iosSlider packaged for meteor lms-application
+CC non-profit licensed iosSlider packaged for meteor lms-application
