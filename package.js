@@ -15,7 +15,7 @@ Package.on_use(function(api) {
        'lib/jquery.iosslider.js',
        'slider.css',
        'slider.html',
-       '/lib/sliderItem.js',
-       '/lib/sliderLaunch.js',
-       '/lib/slider.js'], 'client');
+       'lib/sliderItem.js',
+       'lib/sliderLaunch.js',
+       'lib/slider.js'], 'client');
 });
