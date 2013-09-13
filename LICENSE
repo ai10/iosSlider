@@ -1,0 +1,40 @@
+/*
+ * iosSlider - http://iosscripts.com/iosslider/
+  * 
+   * Touch Enabled, Responsive jQuery Horizontal Content Slider/Carousel/Image Gallery Plugin
+    *
+     * A jQuery plugin which allows you to integrate a customizable, cross-browser 
+      * content slider into your web presence. Designed for use as a content slider, carousel, 
+       * scrolling website banner, or image gallery.
+        * 
+         * Copyright (c) 2013 Marc Whitbread
+          * 
+           * Version: v1.3.12 (09/03/2013)
+            * Minimum requirements: jQuery v1.4+
+             *
+              * Advanced requirements:
+               * 1) jQuery bind() click event override on slide requires jQuery v1.6+
+                *
+                 * Terms of use:
+                  *
+                   * 1) iosSlider is licensed under the Creative Commons – Attribution-NonCommercial 3.0 License.
+                    * 2) You may use iosSlider free for personal or non-profit purposes, without restriction.
+                     *  Attribution is not required but always appreciated. For com  mercial projects, you
+                      *  must purchase a license. You may download an   d play with the script before deciding to
+                       *  fully implement it in yo  ur project. Making sure you are satisfied, and knowing iosSlider
+                        *  i    s the right script for your project is paramount.
+                         * 3) You are not permitted to make the resources found on iosscripts.com available for
+                          *    distribution elsewhere "as is" without prior consent. If you would like to feature
+                           *    iosSlider on your site, please do not link directly to the resource zip files. Please
+                            *    link to the appropriate page on iosscripts.com where users can find the download.
+                             *
+                              * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY
+                               * EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+                                * MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+                                 * COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+                                  * EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
+                                   * GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED
+                                    * AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+                                     * NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+                                      * OF THE POSSIBILITY OF SUCH DAMAGE.
+                                       */
