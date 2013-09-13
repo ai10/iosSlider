@@ -1,0 +1,33 @@
+<template name="slider">
+<div class="iosSliderDemo">
+<div class="fluidHeight">
+<div class="sliderContainer">
+<div class='iosSlider' id="homeSlider"> 
+  <div class ="slider">
+    {{#each sliderItems}}
+      {{> sliderItem}}
+    {{/each}}
+  </div><!-- /#slider-->
+</div><!-- /.iosslider -->
+<div class="slideSelectors">
+  <div class="prevButton">&larr;</div>
+  {{#each sliderItems}}
+  <div class="item"></div>
+  {{/each}}
+  <div class="nextButton">&rarr;</div>
+</div>
+</div><!-- /.sliderContainer -- >
+</div><!-- /.fluidHeight -->
+</div><!-- /.iosSliderDemo -->
+</template>
+<template name="sliderItem">
+<div class='item'>
+  <div class="inner">
+    <img class="iosSliderImage" src = "/images/{{img}}">
+    <div class='selectorShadow'></div>
+    <div class="text1"><span>{{caption}}</span></div>
+    <div class="text2"><span>mini: {{caption}}</span></div>
+  </div>
+</div>
+</template>
+
